@@ -1,0 +1,11 @@
+# N, A, B = map(int, open(0).read().split())
+N, A, B = map(int, input().split())
+sub = 0
+
+for i in range(1, N + 1):
+    # 各桁の和を出す処理
+    w = sum(list(map(int, str(i))))
+    if A <= w & w <= B:
+        sub += i
+
+print(sub)
