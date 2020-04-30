@@ -8,3 +8,4 @@ for m10 in range(N + 1):
             exit(0)
 
 print('-1 -1 -1')
+
