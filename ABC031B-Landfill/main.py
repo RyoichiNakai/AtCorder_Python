@@ -3,7 +3,8 @@ import sys
 sys.setrecursionlimit(10 ** 8)  # 再帰関数の呼び出し制限
 c = [list(input()) for i in range(10)]
 
-# todo: 時間があればもう一度とき直してみる
+
+# todo: 陸と海を逆にして考えてみる(line10 'x' => 'o', line41)
 def dfs(x, y):
     flag = False
     if not (0 <= x < 10) or not (0 <= y < 10) or c[x][y] == 'x' or c[x][y] == '#':  # 壁に当たったり、探索範囲外になった場合はreturn
