@@ -31,6 +31,7 @@ for i in range(h):  # スタート位置
     for j in range(w):
         if c[i][j] == "s":
             sx, sy = i, j
+            break
 
 dfs(sx, sy)
 print("No")
