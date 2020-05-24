@@ -1,7 +1,7 @@
 n = int(input())
 s = input()
 
-# 下の回答だとタイムオーバー(O(n^3))
+# 下の回答だとタイムオーバー(O(n^2))
 ans = n
 for i in range(n):
     cnt = 0
