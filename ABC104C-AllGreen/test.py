@@ -5,10 +5,8 @@ prob = []
 for i in range(1, d + 1):
     p, c = map(int, input().split())
     prob.append((i * 100, p, c))  # score, num, bonus
-print(prob)
 
-ans = 1000000000
-# repeatは
+ans = 10000000000000
 for prd in product([0, 1], repeat=d):
     cnt = 0
     allScore = 0
