@@ -2,7 +2,7 @@ from itertools import product
 
 n = int(input())
 t = [int(input()) for _ in range(n)]
-res = 10000000
+res = float("INF")
 # こっちの方が冗長性もなくてすっきりしてるかな
 for prd in product([0, 1], repeat=n):
     y1 = []
@@ -12,8 +12,7 @@ for prd in product([0, 1], repeat=n):
             y1.append(i)
         else:
             y2.append(i)
-    ans = max(sum(y1), sum(y2))
-    res = min(res, ans)
+    res = min(res, max(sum(y1), sum(y2)))
 print(res)
 
 
