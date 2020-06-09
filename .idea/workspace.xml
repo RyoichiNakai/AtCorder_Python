@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC002D-Fuction/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ARC037B-BaumTest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/bfs_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Usage/dict/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Usage/dict/defalutdict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/atCorder.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AtCorder.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,48 +20,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC104C-AllGreen/main.py">
+        <entry file="file://$PROJECT_DIR$/Algorithm/bfs_queue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-462">
-              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="53" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC104C-AllGreen/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ABC002D-Fuction/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC031B-Landfill/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -65,29 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC045C-ManyEquation/main.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ARC037B-BaumTest/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Usage/for/for_zip.py">
+        <entry file="file://$PROJECT_DIR$/Usage/dict/defalutdict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Usage/for/product.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -114,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ABC085B-KagamiMochi/README.md" />
-        <option value="$PROJECT_DIR$/ABC085C-Otoshidama/README.md" />
-        <option value="$PROJECT_DIR$/ABC085C-Otoshidama/main.py" />
         <option value="$PROJECT_DIR$/ABC049C-Daydream/main.py" />
         <option value="$PROJECT_DIR$/ABC049C-Daydream/README.md" />
         <option value="$PROJECT_DIR$/ABC086C-Traveling/README.md" />
@@ -165,6 +121,9 @@
         <option value="$PROJECT_DIR$/ABC104C-AllGreen/test.py" />
         <option value="$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py" />
         <option value="$PROJECT_DIR$/ABC002D-Fuction/main.py" />
+        <option value="$PROJECT_DIR$/Usage/dict/defalutdict.py" />
+        <option value="$PROJECT_DIR$/Algorithm/bfs_queue.py" />
+        <option value="$PROJECT_DIR$/ARC037B-BaumTest/main.py" />
       </list>
     </option>
   </component>
@@ -183,74 +142,44 @@
         <subPane>
           <expand>
             <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC002D-Fuction" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC085C-Otoshidama" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC031B-Landfill" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC113B-Palace" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC045C-ManyEquation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC079C-TrainTicket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC087B-Coins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC088C-Takahashi'sInformation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC095B-BitterAlchemy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC096C-GridPaiting2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC102B-MaximumDifference" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC104C-AllGreen" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="ARC029A-TakahashiAndBeef" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="ARC037B-BaumTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="Usage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="atCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="atCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="Usage" type="462c0819:PsiDirectoryNode" />
-              <item name="for" type="462c0819:PsiDirectoryNode" />
+              <item name="dict" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,7 +220,7 @@
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
-      <module name="atCorder" />
+      <module name="AtCorder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -313,7 +242,7 @@
       <method v="2" />
     </configuration>
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atCorder" />
+      <module name="AtCorder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -335,7 +264,7 @@
       <method v="2" />
     </configuration>
     <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atCorder" />
+      <module name="AtCorder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -357,7 +286,7 @@
       <method v="2" />
     </configuration>
     <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atCorder" />
+      <module name="AtCorder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -379,19 +308,19 @@
       <method v="2" />
     </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="atCorder" />
+      <module name="AtCorder" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC002D-Fuction" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ARC037B-BaumTest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC002D-Fuction/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ARC037B-BaumTest/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -466,11 +395,13 @@
       <workItem from="1590725910966" duration="74000" />
       <workItem from="1590931103657" duration="5363000" />
       <workItem from="1590974210881" duration="15429000" />
+      <workItem from="1591324985433" duration="255000" />
+      <workItem from="1591325273458" duration="3412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138509000" />
+    <option name="totallyTimeSpent" value="142176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -482,15 +413,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="827" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.116595134" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119456366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.23537415" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.39455783" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.23505434" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3934871" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299595" />
@@ -498,7 +429,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32789117" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.1632653" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" visible="true" weight="0.119727895" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.11940298" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32789117" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -553,39 +484,13 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1591333918974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ARC037B-BaumTest" />
     <SUITE FILE_PATH="coverage/atCorder$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587785670188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B-Coins" />
     <SUITE FILE_PATH="coverage/atCorder$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1589713627391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/atCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1590993462101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC002D-Fuction" />
     <SUITE FILE_PATH="coverage/atCorder$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1589713637274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC070B-TwoSwitches" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ABC046B-AtCoDeerandBallColorPainting/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC081A-Placing Marbles/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC081B-ShiftOnly/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="525">
-            <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC086A-Product/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -842,13 +747,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ABC104C-AllGreen/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC104C-AllGreen/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="40" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ABC031B-Landfill/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="525">
           <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC045C-ManyEquation/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -866,38 +792,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC104C-AllGreen/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="40" lean-forward="true" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC104C-AllGreen/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC045C-ManyEquation/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC002D-Fuction/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="120">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Usage/dict/defalutdict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/bfs_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ARC037B-BaumTest/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
     </entry>

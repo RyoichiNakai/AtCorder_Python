@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/atCorder.iml" filepath="$PROJECT_DIR$/.idea/atCorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AtCorder.iml" filepath="$PROJECT_DIR$/.idea/AtCorder.iml" />
     </modules>
   </component>
 </project>
