@@ -22,6 +22,7 @@ def __logging(visited, stack):
     else:
         print("visited: {}".format(visited), end="\n")
 
+
 """
 +-------------1
 |             |
