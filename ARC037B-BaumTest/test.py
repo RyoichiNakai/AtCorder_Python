@@ -3,16 +3,19 @@ import collections
 
 def dfs(graph, start):
     stack = [start]
-    visited = []
-    cnt = 0
+    flag = False
+    global visited
+    global cnt
     while stack:
         label = stack.pop(0)
         if label not in visited:
             visited.append(label)
-            stack = graph.get(label) + stack
-        if __has_duplicates(stack):
-            cnt = 1
-    return visited, cnt
+            if graph.get(label) in stack:
+                flag = True
+            else:
+                stack = graph.get(label) + stack
+    if flag:
+        cnt -= 1
 
 
 def __has_duplicates(seq):
@@ -29,23 +32,19 @@ for _ in range(m):
     tree[u].append(v)
     tree[v].append(u)
 
-# if len(list(tree)) != n:
+cnt = 0
+visited = []
 
-print(list(tree), dict(tree))
-num = 0
-res = 0
-while True:
-    res += 1
-    visited, cnt = dfs(dict(tree), num)
-    res -= cnt
+for i in range(n):
+    if i in visited:
+        continue
 
-    if visited[-1] == list(tree)[-1]:
-        break
+    if i in list(tree):
+        dfs(dict(tree), i)
 
-    if visited[-1] + 1 <= list(tree)[-1]:
-        num = visited[-1] + 1
+    cnt += 1
 
-print(res)
+print(cnt)
 
 
 
