@@ -45,18 +45,11 @@ maze = [list(input()) for i in range(r)]
 print(bfs())
 
 
-"""
-入力
 
-7 8
-2 2
-4 5
-########
-#......#
-#.######
-#..#...#
-#..##..#
-##.....#
-########
+r, c = map(int, input().split())
+sy, sx = map(lambda x: int(x) - 1, input().split())
+gy, gx = map(lambda x: int(x) - 1, input().split())
+maze = [list(input()) for i in range(r)]
 
-"""
+print(bfs())
+
