@@ -9,16 +9,16 @@ def dfs(graph, start):
     global cnt
 
     while stack:
-        label = stack.pop(0)
+        node = stack.pop(0)
 
         # まだ訪れたことがなかったら，探索に追加
-        if label not in visited:
-            visited.append(label)
+        if node not in visited:
+            visited.append(node)
             # stackに現在のノードの子ノード値が含まれていると閉路になっている．
-            for c_node in graph.get(label):
+            for c_node in graph.get(node):
                 if c_node in stack:
                     flag = True
-            stack = graph.get(label) + stack
+            stack = graph.get(node) + stack
 
     if flag:
         cnt -= 1
