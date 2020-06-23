@@ -20,7 +20,7 @@ def dfs(x, y):
         print()
     print()
 
-    dfs(x, y + 1)  # これだとxがした方向、yが右方向
+    dfs(x, y + 1)  # これだとxが下方向、yが右方向
     dfs(x, y - 1)
     dfs(x + 1, y)
     dfs(x - 1, y)
