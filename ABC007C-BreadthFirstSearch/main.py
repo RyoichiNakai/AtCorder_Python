@@ -13,19 +13,12 @@ def bfs():
     d[sy][sx] = 0
 
     while que:
-        print("que: {}".format(que), end='\n')
 
         p = que.popleft()
 
-        print("p: {}".format(p), end='\n')
-        for i in range(r):  # スタート位置
-            for j in range(c):
-                print(d[i][j], end=' ')
-            print()
-        print()
-
         if p[0] == gy and p[1] == gx:
             break
+
         for i in range(4):
             ny = p[0] + dy[i]
             nx = p[1] + dx[i]
@@ -43,13 +36,3 @@ gy, gx = map(lambda x: int(x) - 1, input().split())
 maze = [list(input()) for i in range(r)]
 
 print(bfs())
-
-
-
-r, c = map(int, input().split())
-sy, sx = map(lambda x: int(x) - 1, input().split())
-gy, gx = map(lambda x: int(x) - 1, input().split())
-maze = [list(input()) for i in range(r)]
-
-print(bfs())
-
