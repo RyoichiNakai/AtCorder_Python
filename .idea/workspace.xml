@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC045C-ManyEquation/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ARC061A-ManyEquation/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AOJ2010E-Cheese/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/AOJ2010E-Cheese/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AOJ2010E-Cheese/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+            <state relative-caret-position="330">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -466,12 +464,12 @@
       <workItem from="1592978101770" duration="7000" />
       <workItem from="1592983916646" duration="312000" />
       <workItem from="1592984245325" duration="4710000" />
-      <workItem from="1592992375543" duration="3329000" />
+      <workItem from="1592992375543" duration="4008000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175431000" />
+    <option name="totallyTimeSpent" value="176110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,7 +548,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1592995810896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AOJ2010E-Cheese" />
+    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1592996479656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AOJ2010E-Cheese" />
     <SUITE FILE_PATH="coverage/atCorder$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587785670188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B-Coins" />
     <SUITE FILE_PATH="coverage/atCorder$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1589713627391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/atCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1590993462101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC002D-Fuction" />
@@ -872,8 +870,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AOJ2010E-Cheese/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="48" column="18" lean-forward="true" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>

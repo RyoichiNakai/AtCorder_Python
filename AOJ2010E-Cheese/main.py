@@ -18,6 +18,7 @@ def bfs(sy, sx, gy, gx):
 
         if p[0] == gy and p[1] == gx:
             break
+
         for i in range(4):
             ny = p[0] + dy[i]
             nx = p[1] + dx[i]
@@ -31,22 +32,22 @@ def bfs(sy, sx, gy, gx):
 
 h, w, n = map(int, input().split())
 num = [_ for _ in range(1, n + 1)]
-tree = collections.defaultdict(list)
-maze = [list(input()) for i in range(h)]
+sg = collections.defaultdict(list)
+maze = [list(input()) for _ in range(h)]
 res = 0
 
 for y in range(h):
     for x in range(w):
 
         if maze[y][x] == 'S':
-            tree[0].append(y)
-            tree[0].append(x)
+            sg[0].append(y)
+            sg[0].append(x)
 
         if maze[y][x] in str(num):
-            tree[int(maze[y][x])].append(y)
-            tree[int(maze[y][x])].append(x)
+            sg[int(maze[y][x])].append(y)
+            sg[int(maze[y][x])].append(x)
 
 for i in range(n):
-    res += bfs(tree[i][0], tree[i][1], tree[i + 1][0], tree[i + 1][1])
+    res += bfs(sg[i][0], sg[i][1], sg[i + 1][0], sg[i + 1][1])
 
 print(res)
