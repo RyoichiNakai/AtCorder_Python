@@ -4,13 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/ABC086A-Product/main.py" line="1" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/AOJ2010E-Cheese/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Resolve/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC007C-BreadthFirstSearch/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ABC007C-BreadthFirstSearch/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/bfs_maze_queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/bfs_maze_queue.py" afterDir="false" />
-    </list>
+    <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +156,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="720" />
-    <option name="height" value="827" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -405,12 +399,12 @@
       <workItem from="1592288541605" duration="449000" />
       <workItem from="1592728825446" duration="603000" />
       <workItem from="1592792186426" duration="12832000" />
-      <workItem from="1592891465203" duration="9522000" />
+      <workItem from="1592891465203" duration="9573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166527000" />
+    <option name="totallyTimeSpent" value="166578000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -425,7 +419,7 @@
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12660944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12660944" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -439,8 +433,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32789117" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.1632653" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.14809783" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32789117" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" visible="true" weight="0.14809783" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32744566" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
