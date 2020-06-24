@@ -19,11 +19,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ARC004A-TheLongestDistance/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="135">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC051B-SumofThree Integers/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -136,6 +145,11 @@
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="ABC051B-SumofThree Integers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
@@ -366,12 +380,12 @@
       <workItem from="1592976924102" duration="495000" />
       <workItem from="1592978101770" duration="7000" />
       <workItem from="1592983916646" duration="312000" />
-      <workItem from="1592984245325" duration="1820000" />
+      <workItem from="1592984245325" duration="2866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="169212000" />
+    <option name="totallyTimeSpent" value="170258000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +414,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32789117" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.1632653" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.26821864" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.26766303" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32744566" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -450,7 +464,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1592986506616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ARC004A-TheLongestDistance" />
+    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1592987820306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ARC004A-TheLongestDistance" />
     <SUITE FILE_PATH="coverage/atCorder$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587785670188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B-Coins" />
     <SUITE FILE_PATH="coverage/atCorder$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1589713627391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/atCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1590993462101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC002D-Fuction" />
@@ -576,13 +590,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC046B-AtCoDeerandBallColorPainting/main.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC051B-SumofThree Integers/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC053B-AtoZString/main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -768,10 +775,17 @@
     <entry file="file://$PROJECT_DIR$/ABC065B-Trained?/main.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/ABC051B-SumofThree Integers/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ARC004A-TheLongestDistance/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
