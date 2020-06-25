@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ABC/ABC086A-Product/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ABC/ABC086A-Product/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ABC/ABC086C-Traveling/README.md" beforeDir="false" />
@@ -20,6 +21,17 @@
       <change beforePath="$PROJECT_DIR$/ABC/ABC104C-AllGreen/main.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ABC/ABC104C-AllGreen/test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ABC/ABC113B-Palace/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOJ/AOJ1160-HowManyIsland/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AOJ/AOJ2010E-Cheese/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARC/ARC004A-TheLongestDistance/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARC/ARC029A-TakahashiAndBeef/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARC/ARC037B-BaumTest/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARC/ARC037B-BaumTest/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ARC/ARC061A-ManyEquation/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bfs_maze_queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/bfs_maze_recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/dfs_graph_stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/dfs_maze_recursion.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,15 +42,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AOJ2010E-Cheese/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABC/055/B_TrainingCamp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -47,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABC/002/D_Function.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -57,39 +60,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ARC037B-BaumTest/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Resolve/main.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/dfs_graph_stack.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ARC037B-BaumTest/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/bfs_maze_recursion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-            </state>
-          </provider>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JOI/2010/E_Cheese.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -197,16 +174,6 @@
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ARC037B-BaumTest" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -230,6 +197,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ARC" />
+      <recent name="$PROJECT_DIR$/AOJ" />
       <recent name="$PROJECT_DIR$/ABC" />
       <recent name="$PROJECT_DIR$/Usage/for" />
     </key>
@@ -435,12 +404,12 @@
       <workItem from="1592983916646" duration="312000" />
       <workItem from="1592984245325" duration="4710000" />
       <workItem from="1592992375543" duration="4329000" />
-      <workItem from="1593057051851" duration="2347000" />
+      <workItem from="1593057051851" duration="2724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178778000" />
+    <option name="totallyTimeSpent" value="179155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -454,7 +423,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07582261" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07582261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -468,7 +437,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32789117" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.1632653" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" visible="true" weight="0.26494566" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" visible="true" weight="0.26494566" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32692307" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -511,7 +480,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/ARC061A-ManyEquation/main.py</url>
+          <url>file://$PROJECT_DIR$/ARC/ARC061A-ManyEquation/main.py</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -525,13 +494,6 @@
     <SUITE FILE_PATH="coverage/atCorder$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1589713637274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC070B-TwoSwitches" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -638,7 +600,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC029A-TakahashiAndBeef/main.py">
+    <entry file="file://$PROJECT_DIR$/ARC/ARC029A-TakahashiAndBeef/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="36" />
@@ -662,7 +624,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AOJ1160-HowManyIsland/main.py">
+    <entry file="file://$PROJECT_DIR$/AOJ/AOJ1160-HowManyIsland/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
@@ -682,9 +644,6 @@
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resolve/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC048B-BetweenAandB.../main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -738,7 +697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC004A-TheLongestDistance/main.py">
+    <entry file="file://$PROJECT_DIR$/ARC/ARC004A-TheLongestDistance/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -748,7 +707,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC061A-ManyEquation/main.py">
+    <entry file="file://$PROJECT_DIR$/ARC/ARC061A-ManyEquation/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
@@ -796,7 +755,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC037B-BaumTest/main.py">
+    <entry file="file://$PROJECT_DIR$/ARC/ARC037B-BaumTest/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
@@ -810,7 +769,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ARC037B-BaumTest/test.py">
+    <entry file="file://$PROJECT_DIR$/ARC/ARC037B-BaumTest/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -824,7 +783,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AOJ2010E-Cheese/main.py">
+    <entry file="file://$PROJECT_DIR$/AOJ/AOJ2010E-Cheese/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -844,6 +803,12 @@
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolve/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOI/2010/E_Cheese.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
