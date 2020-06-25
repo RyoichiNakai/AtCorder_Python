@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC/055/b_TrainingCamp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC002D-Fuction/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC007C-BreadthFirstSearch/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC031B-Landfill/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC046B-AtCoDeerandBallColorPainting/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC048B-BetweenAandB.../main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC049C-Daydream/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC049C-Daydream/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC051B-SumofThree Integers/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC053B-AtoZString/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC/ABC055B-TrainingCamp/main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC086A-Product/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC086A-Product/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC086C-Traveling/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC086C-Traveling/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC087B-Coins/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC087B-Coins/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC087C-Candies/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC088B-CardGameforTwo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC088B-CardGameforTwo/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC088C-Takahashi'sInformation/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC095B-BitterAlchemy/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC096C-GridPaiting2/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC096C-HalfandHalf/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC098C-Attention/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC102B-MaximumDifference/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC104C-AllGreen/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC104C-AllGreen/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC/ABC113B-Palace/main.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +39,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC/055/b_TrainingCamp.py">
+        <entry file="file://$PROJECT_DIR$/ABC/055/B_TrainingCamp.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ABC/002/d_function.py">
+        <entry file="file://$PROJECT_DIR$/ABC/002/D_Function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -117,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ABC087C-Candies/main.py" />
         <option value="$PROJECT_DIR$/ABC060B-ChooseIntegers/main.py" />
         <option value="$PROJECT_DIR$/ABC085B-KagamiMochi/main.py" />
         <option value="$PROJECT_DIR$/ABC065B-Trained?/main.py" />
@@ -168,6 +174,7 @@
         <option value="$PROJECT_DIR$/Resolve/main.py" />
         <option value="$PROJECT_DIR$/ARC004A-TheLongestDistance/main.py" />
         <option value="$PROJECT_DIR$/AOJ2010E-Cheese/main.py" />
+        <option value="$PROJECT_DIR$/ABC/002/D_Function.py" />
       </list>
     </option>
   </component>
@@ -194,54 +201,6 @@
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="ABC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="002" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="007" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="031" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="046" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="048" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="049" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="051" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="053" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
@@ -476,12 +435,12 @@
       <workItem from="1592983916646" duration="312000" />
       <workItem from="1592984245325" duration="4710000" />
       <workItem from="1592992375543" duration="4329000" />
-      <workItem from="1593057051851" duration="1240000" />
+      <workItem from="1593057051851" duration="2347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="177671000" />
+    <option name="totallyTimeSpent" value="178778000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -494,7 +453,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07582261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -873,17 +831,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC/055/b_TrainingCamp.py">
+    <entry file="file://$PROJECT_DIR$/ABC/055/B_TrainingCamp.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC/002/d_function.py">
+    <entry file="file://$PROJECT_DIR$/ABC/002/D_Function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="210">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
         </state>
       </provider>
     </entry>
