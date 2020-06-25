@@ -19,9 +19,9 @@ def bfs(sy, sx, gy, gx):
         if p[0] == gy and p[1] == gx:
             break
 
-        for i in range(4):
-            ny = p[0] + dy[i]
-            nx = p[1] + dx[i]
+        for k in range(4):
+            ny = p[0] + dy[k]
+            nx = p[1] + dx[k]
 
             if 0 <= ny < h and 0 <= nx < w and maze[ny][nx] != "X" and d[ny][nx] == float("inf"):
                 que.append((ny, nx))
