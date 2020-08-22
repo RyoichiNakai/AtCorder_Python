@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC/088/D_GridRepainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/koita/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/koita/natural.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/koita/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/koita/write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/okuda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/okuda/mips.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,47 +20,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC/055/B_TrainingCamp.py">
+        <entry file="file://$PROJECT_DIR$/lesson/koita/write.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ABC/002/D_Function.py">
+        <entry file="file://$PROJECT_DIR$/lesson/koita/test">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            <state relative-caret-position="599745">
+              <caret line="39983" column="5" selection-end-line="40000" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resolve/main.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JOI/2010/E_Cheese.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ABC/088/D_GridRepainting.py">
+        <entry file="file://$PROJECT_DIR$/lesson/okuda/mips.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="20" lean-forward="true" selection-end-line="50" />
+            <state relative-caret-position="-73">
+              <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/bfs/maze_queue.py">
+        <entry file="file://$PROJECT_DIR$/lesson/koita/natural.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="45" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -91,10 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ABC065B-Trained?/main.py" />
-        <option value="$PROJECT_DIR$/ABC079C-TrainTicket/main.py" />
-        <option value="$PROJECT_DIR$/ABC096C-GridPaiting2/main.py" />
-        <option value="$PROJECT_DIR$/ABC069B-i18n/main.py" />
         <option value="$PROJECT_DIR$/ABC082B-TwoAnagrams/main.py" />
         <option value="$PROJECT_DIR$/ABC068B-BreakNumber/main.py" />
         <option value="$PROJECT_DIR$/ABC102B-MaximumDifference/main.py" />
@@ -142,12 +134,15 @@
         <option value="$PROJECT_DIR$/ABC/002/D_Function.py" />
         <option value="$PROJECT_DIR$/ABC/088/D_GridRePainting.py" />
         <option value="$PROJECT_DIR$/ABC/088/D_GridRepainting.py" />
+        <option value="$PROJECT_DIR$/lesson/koita/natural.py" />
+        <option value="$PROJECT_DIR$/lesson/koita/test" />
+        <option value="$PROJECT_DIR$/lesson/koita/write.py" />
+        <option value="$PROJECT_DIR$/lesson/okuda/mips.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="24" />
-    <option name="y" value="-717" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
@@ -157,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,24 +169,29 @@
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="ABC" type="462c0819:PsiDirectoryNode" />
-              <item name="088" type="462c0819:PsiDirectoryNode" />
+              <item name="002" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="bfs" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="koita" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson" type="462c0819:PsiDirectoryNode" />
+              <item name="okuda" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +206,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -324,12 +325,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ABC/088" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson/okuda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ABC/088/D_GridRepainting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson/okuda/mips.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,12 +418,32 @@
       <workItem from="1592984245325" duration="4710000" />
       <workItem from="1592992375543" duration="4329000" />
       <workItem from="1593057051851" duration="3338000" />
-      <workItem from="1593686526364" duration="1455000" />
+      <workItem from="1593686526364" duration="2177000" />
+      <workItem from="1593867766043" duration="440000" />
+      <workItem from="1594258515928" duration="95000" />
+      <workItem from="1594702561637" duration="35000" />
+      <workItem from="1595379273809" duration="116000" />
+      <workItem from="1595421744216" duration="146000" />
+      <workItem from="1595421914454" duration="59000" />
+      <workItem from="1595421980107" duration="115000" />
+      <workItem from="1595422116220" duration="20000" />
+      <workItem from="1595422520920" duration="46000" />
+      <workItem from="1595434903328" duration="492000" />
+      <workItem from="1595435429010" duration="8000" />
+      <workItem from="1595741769113" duration="4421000" />
+      <workItem from="1595748156185" duration="836000" />
+      <workItem from="1595776505807" duration="526000" />
+      <workItem from="1595824164389" duration="1159000" />
+      <workItem from="1595825555551" duration="129000" />
+      <workItem from="1595831991017" duration="479000" />
+      <workItem from="1595833517203" duration="137000" />
+      <workItem from="1596001470412" duration="4216000" />
+      <workItem from="1596166368152" duration="215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181224000" />
+    <option name="totallyTimeSpent" value="195636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,32 +455,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1080" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="831" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.056975506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2167382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.20445344" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.37077132" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.39266303" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299595" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32789117" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32746956" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.1632653" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.19736843" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32692307" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.1962111" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32611638" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" x="0" y="0" width="310" height="626" id="Documentation" order="5" side_tool="true" visible="true" weight="0.27795526" />
+      <window_info anchor="right" x="0" y="0" width="310" height="626" id="Documentation" order="5" side_tool="true" visible="true" weight="0.27753934" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12660944" />
@@ -501,24 +522,13 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1593688198610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC/088" />
+    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1596004981785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lesson/okuda" />
     <SUITE FILE_PATH="coverage/atCorder$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587785670188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B-Coins" />
     <SUITE FILE_PATH="coverage/atCorder$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1589713627391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/atCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1590993462101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC002D-Fuction" />
     <SUITE FILE_PATH="coverage/atCorder$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1589713637274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC070B-TwoSwitches" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LINE-CodingTest1/q3.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26355">
-          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC087C-Candies/main.py" />
-    <entry file="file://$PROJECT_DIR$/LINE-CodingTest1/q1.py" />
-    <entry file="file://$PROJECT_DIR$/ABC104-AllGreen.py" />
     <entry file="file://$PROJECT_DIR$/freee/main.py" />
     <entry file="file://$PROJECT_DIR$/ABC102B-MaximumDifference/main.py" />
     <entry file="file://$PROJECT_DIR$/ABC098C-Attention/main.py" />
@@ -579,10 +589,13 @@
     <entry file="file://$PROJECT_DIR$/AOJ/AOJ2010E-Cheese/main.py" />
     <entry file="file://$PROJECT_DIR$/ABC/055/B_TrainingCamp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="342">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resolve/main.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC/002/D_Function.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,11 +604,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resolve/main.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/JOI/2010/E_Cheese.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/088/D_GridRepainting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC/104/C_AllGreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algorithm/bfs/maze_queue.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -604,10 +628,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ABC/088/D_GridRepainting.py">
+    <entry file="file://$PROJECT_DIR$/lesson/koita/write.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="20" lean-forward="true" selection-end-line="50" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson/koita/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599745">
+          <caret line="39983" column="5" selection-end-line="40000" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson/koita/natural.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson/okuda/mips.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="38" column="15" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
         </state>
       </provider>
     </entry>
