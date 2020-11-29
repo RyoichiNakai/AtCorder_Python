@@ -21,5 +21,3 @@ for a in range(31):
                         d_list.append(d)
 
 print(w_list[d_list.index(max(d_list))] + s_list[d_list.index(max(d_list))], s_list[d_list.index(max(d_list))])
-
-
