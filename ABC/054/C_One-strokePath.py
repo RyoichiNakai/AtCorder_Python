@@ -1,3 +1,38 @@
+import itertools
+
+n, m = map(int, input().split())
+
+path = [[False] * n for _ in range(n)]
+
+# 無向グラフを解く時の頂点と辺の関係をTrue/Falseで表す
+for _ in range(m):
+    a, b = map(lambda x: int(x) - 1, input().split())
+    path[a][b] = True
+    path[b][a] = True
+
+# print(path)
+
+ans = 0
+
+# 頂点を並び替える順列を生成してループ
+for i in itertools.permutations(range(n), n):
+    # print(i)
+    # 頂点1が始点
+    if i[0] == 0:
+        # 生成した順列の中をさらにループ
+        for j in range(n):
+            # n - 1 まで続いたら条件を満たすパスが存在する(なんで?)
+            if j == n - 1:
+                ans += 1
+                break
+            # i[j] から i[j + 1] にいくパスがなければ終了
+            if not path[i[j]][i[j + 1]]:
+                break
+
+print(ans)
+
+
+"""
 import collections
 
 
@@ -40,3 +75,5 @@ for _ in range(m):
 
 # 今回は始点が1と決まっているためにstartの位置を1と設定
 print(dfs(dict(tree), 1, m))
+
+"""
