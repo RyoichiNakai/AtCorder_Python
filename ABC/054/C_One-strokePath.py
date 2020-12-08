@@ -4,35 +4,32 @@ import collections
 def dfs(graph, start, num):
     ans = 0
     stack = list()
-    f_vertex = graph.get(start)
+    f_vertex = graph.get(start)  # 始点と隣接しているノード
+    print(graph)
 
     # 1とつながっている頂点の数だけfor文を回す
     for child in f_vertex:
-        # dfsしたいノードをstackにappend
-        stack.append(child)
-        # visitedには探索済のノードをリストとして保持
-        visited = [start, child]
-        # print("stack:{}".format(stack))
+        stack.append(child)  # dfsしたいノードをstackにappend
+        visited = [start]  # visitedをリセット
 
         # stackの分だけループを回す
         while stack:
-            node = stack.pop()
-            # print(graph.get(node))
-            for c_node in graph.get(node):
-                if c_node not in visited:
-                    visited.append(c_node)  # 探索したノードを追加
-                    # print("visited:{}".format(visited))
-                    stack.append(c_node)
-                    # print("stack:{}".format(stack))
+            node = stack.pop(0)
+            print("node:{}".format(node))
+            if node not in visited:
+                visited.append(node)  # 訪問済のノードを追加
+                print("visited:{}".format(visited))
+                stack = graph.get(node) + stack  # 子ノードをstackに追加
+                print("stack:{}".format(stack))
 
         if len(visited) == num:
             ans += 1
+            print("ans:{}".format(ans))
 
     return ans
 
 
 n, m = map(int, input().split())
-# グラフ系の問題はこれを使うと便利
 tree = collections.defaultdict(list)
 
 # 隣接関係をdict型に保存
