@@ -33,6 +33,7 @@ print(ans)
 
 
 """
+ダメだったやつ
 import collections
 
 
