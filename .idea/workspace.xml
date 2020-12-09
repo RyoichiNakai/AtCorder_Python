@@ -4,8 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/ARC/005/C_PropertyDamage.py" line="29" mnemonic="1" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yukicorder/133/CardGame.py" afterDir="false" />
+    <list default="true" id="d42d1d42-bd4e-4bae-a7f0-eaf314c9704b" name="Default Changelist" comment="WA">
+      <change afterPath="$PROJECT_DIR$/JOI/2008/A_Change.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +40,7 @@
             <entry file="file://$PROJECT_DIR$/Algorithm/combination/combination.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="120">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
                 </state>
               </provider>
             </entry>
@@ -58,6 +58,15 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/JOI/2008/A_Change.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="180">
+                  <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ABC/054/C_One-strokePath.py">
               <provider selected="true" editor-type-id="text-editor">
@@ -67,11 +76,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/JOI/2009/D_CardArrangement.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="135">
-                  <caret line="9" column="31" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="31" />
+                <state relative-caret-position="240">
+                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
                 </state>
               </provider>
             </entry>
@@ -112,8 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LINE-CodingTest1/q2.py" />
-        <option value="$PROJECT_DIR$/LINE-CodingTest1/q3.py" />
         <option value="$PROJECT_DIR$/LINE-CodingTest1/q1.py" />
         <option value="$PROJECT_DIR$/ABC031B-Landfill/main.py" />
         <option value="$PROJECT_DIR$/ABC098C-Attention/main.py" />
@@ -160,9 +167,11 @@
         <option value="$PROJECT_DIR$/Algorithm/sequence/sequence.py" />
         <option value="$PROJECT_DIR$/Algorithm/combination/combination.py" />
         <option value="$PROJECT_DIR$/ABC/054/C_One-strokePath.py" />
-        <option value="$PROJECT_DIR$/JOI/2009/D_CardArrangement.py" />
         <option value="$PROJECT_DIR$/yukicorder/133.py" />
+        <option value="$PROJECT_DIR$/JOI/2009/D_CardArrangement.py" />
         <option value="$PROJECT_DIR$/yukicorder/133/CardGame.py" />
+        <option value="$PROJECT_DIR$/JOI/2008/A_Change.py" />
+        <option value="$PROJECT_DIR$/AOJ/Course/CoinChanging.py" />
       </list>
     </option>
   </component>
@@ -378,6 +387,17 @@
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="AOJ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="AOJ" type="462c0819:PsiDirectoryNode" />
+              <item name="Course" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="ARC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -407,18 +427,18 @@
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="JOI" type="462c0819:PsiDirectoryNode" />
+              <item name="2008" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
+              <item name="JOI" type="462c0819:PsiDirectoryNode" />
               <item name="2010" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
               <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
               <item name="lesson" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AtCorder" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson" type="462c0819:PsiDirectoryNode" />
-              <item name="koita" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AtCorder" type="b2602c69:ProjectViewProjectNode" />
@@ -576,12 +596,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/yukicorder/133" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AOJ/Course" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yukicorder/133/CardGame.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AOJ/Course/CoinChanging.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -703,6 +723,7 @@
       <workItem from="1607347077671" duration="1747000" />
       <workItem from="1607403370200" duration="2219000" />
       <workItem from="1607502187502" duration="4036000" />
+      <workItem from="1607506634009" duration="2737000" />
     </task>
     <task id="LOCAL-00001" summary="[Finish] lesson program">
       <created>1598084546285</created>
@@ -781,11 +802,18 @@
       <option name="project" value="LOCAL" />
       <updated>1607504378815</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="WA">
+      <created>1607506723274</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607506723274</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227381000" />
+    <option name="totallyTimeSpent" value="230118000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -800,18 +828,18 @@
     <frame x="0" y="-1080" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09211928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.092651755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" weight="0.3674089" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.3674089" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.39170042" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299595" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32746956" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32692307" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.1632653" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4985694" weight="0.19534414" />
@@ -853,12 +881,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Finish] lesson program" />
-    <MESSAGE value="WA" />
     <MESSAGE value="[Add] Algorithm" />
     <MESSAGE value="AC" />
-    <option name="LAST_COMMIT_MESSAGE" value="AC" />
+    <MESSAGE value="WA" />
+    <option name="LAST_COMMIT_MESSAGE" value="WA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -876,27 +914,13 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1607506511086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/yukicorder/133" />
+    <SUITE FILE_PATH="coverage/AtCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1607508561216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AOJ/Course" />
     <SUITE FILE_PATH="coverage/atCorder$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1587785670188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC087B-Coins" />
     <SUITE FILE_PATH="coverage/atCorder$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1589713627391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Algorithm" />
     <SUITE FILE_PATH="coverage/atCorder$main.coverage" NAME="main Coverage Results" MODIFIED="1590993462101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC002D-Fuction" />
     <SUITE FILE_PATH="coverage/atCorder$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1589713637274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ABC070B-TwoSwitches" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson/koita/write.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ABC/088/D_GridRepainting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC/088/B_CardGameforTwo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1108,6 +1132,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/yukicorder/133.py" />
     <entry file="file://$PROJECT_DIR$/ARC/037/B_BaumTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1122,6 +1147,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/combination/combination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ABC/054/C_One-strokePath.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1129,20 +1161,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/yukicorder/133.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algorithm/combination/combination.py">
+    <entry file="file://$PROJECT_DIR$/JOI/2009/D_CardArrangement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JOI/2009/D_CardArrangement.py">
+    <entry file="file://$PROJECT_DIR$/AOJ/Course/CoinChanging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -1150,6 +1179,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JOI/2008/A_Change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
