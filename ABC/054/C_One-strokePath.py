@@ -1,3 +1,32 @@
+"""
+from collections import defaultdict
+
+
+def dfs(start, visited):
+    if len(visited) == n:
+        ans.append(visited)
+    else:
+        for c in graph[start]:
+            if c not in visited:
+                dfs(c, visited + [c])
+
+
+n, m = map(int, input().split())
+tree = defaultdict(list)
+for _ in range(m):
+    a, b = map(int, input().split())
+    tree[a].append(b)
+    tree[b].append(a)
+
+graph = dict(tree)
+ans = []
+dfs(1, [1])
+print(len(ans))
+print(ans)
+
+"""
+
+"""
 import itertools
 
 n, m = map(int, input().split())
@@ -30,18 +59,16 @@ for i in itertools.permutations(range(n), n):
                 break
 
 print(ans)
-
-
 """
-ダメだったやつ
-import collections
+
+# ダメだったやつ
+from collections import defaultdict
 
 
-def dfs(graph, start, num):
-    ans = 0
+def dfs(graph, start):
     stack = list()
+    ans = 0
     f_vertex = graph.get(start)  # 始点と隣接しているノード
-    print(graph)
 
     # 1とつながっている頂点の数だけfor文を回す
     for child in f_vertex:
@@ -51,22 +78,20 @@ def dfs(graph, start, num):
         # stackの分だけループを回す
         while stack:
             node = stack.pop(0)
-            print("node:{}".format(node))
-            if node not in visited:
-                visited.append(node)  # 訪問済のノードを追加
-                print("visited:{}".format(visited))
-                stack = graph.get(node) + stack  # 子ノードをstackに追加
-                print("stack:{}".format(stack))
 
-        if len(visited) == num:
+            if node not in visited and node in graph[visited[-1]]:
+                visited.append(node)  # 訪問済のノードを追加
+                stack = graph.get(node) + stack  # 子ノードをstackに追加
+
+        if len(visited) == n:
             ans += 1
-            print("ans:{}".format(ans))
 
     return ans
 
 
 n, m = map(int, input().split())
-tree = collections.defaultdict(list)
+tree = defaultdict(list)
+
 
 # 隣接関係をdict型に保存
 for _ in range(m):
@@ -75,6 +100,4 @@ for _ in range(m):
     tree[b].append(a)
 
 # 今回は始点が1と決まっているためにstartの位置を1と設定
-print(dfs(dict(tree), 1, m))
-
-"""
+print(dfs(dict(tree), 1))
